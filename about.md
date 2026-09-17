@@ -8,10 +8,10 @@ permalink: /about/
 
 # About Me
 
+<img src="profile2.jpg" alt="My photo" width="200">
+
 Hi, I'm MD Enamul Haque Sobuz — a Computer Science student at Guizhou University.
 I see the world through two lenses: code and camera.
-
-![My photo](profile2.jpg)
 
 By day, I'm learning how the internet actually works — studying Java and Python,
 practicing network configuration, and building small projects until they finally
