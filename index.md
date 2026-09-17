@@ -13,4 +13,4 @@ Guizhou University
 Welcome to my personal portfolio. I'm a CS student who loves programming,
 networking, travel and photography.
 
-![My photo](profile.jpg)
+<img src="profile.jpg" alt="My photo" width="200">
